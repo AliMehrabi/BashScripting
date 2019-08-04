@@ -1,0 +1,9 @@
+#!/bin/bash
+
+FOO="This is a test" 
+printf " %s\n" "$FOO"
+
+V=10234
+printf "%d\n" $V
+
+
